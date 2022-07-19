@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://imgur.com/a/laMIt2O" alt="ZenkiBot-MD" width="900"/>
+<img src="https://imgur.com/a/laMIt2O"/>
 </p>
 
 <p align="center">
