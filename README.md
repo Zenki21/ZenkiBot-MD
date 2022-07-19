@@ -1,8 +1,5 @@
 > #### 🚀 Versión actual: 1.1.12
 
-<p align="center"> 
-  <a href="https://github.com/Zenki21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ZenkiBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
-</p>
 [![Zenki21](https://github.com/Zenki21.png?size=100)](https://github.com/Zenki21)
 
 <p align="center">
